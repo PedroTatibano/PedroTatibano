@@ -9,4 +9,4 @@ Foco sempre em aprendizagem e novas oportunidades dentro do mercado da Programa�
 
 ⚡Abaixo estão alguns repositórios dos meus códigos abertos :)⚡</br>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width= 30 heigh= 30>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
