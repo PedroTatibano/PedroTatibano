@@ -9,4 +9,6 @@ Foco sempre em aprendizagem e novas oportunidades dentro do mercado da Programa�
 
 ⚡Abaixo estão alguns repositórios dos meus códigos abertos :)⚡</br>
 
+<h1>TECNOLOGIAS</h1>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width ="30" height="30"/>
