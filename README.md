@@ -11,8 +11,20 @@
 </p>
 
 <p align="left">
-  Minha experiência se concentra principalmente em JavaScript, com foco em desenvolvimento mobile utilizando React Native, além de sólidos conhecimentos em Express.js e Node.js para o desenvolvimento backend. 🛠️
+  Minha experiência inclui:
 </p>
+
+<ul>
+  <li>Desenvolvimento mobile com React Native (Expo e CLI)</li>
+  <li>Desenvolvimento Web em React</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Android Studio</li>
+  <li>HTML e CSS</li>
+  <li>Programação Orientada a Objetos (POO)</li>
+  <li>PHP</li>
+</ul>
+
 
 <p align="left">
   Fique à vontade para entrar em contato comigo por e-mail em <strong>pedrotatibano1900@gmail.com</strong>. Será um prazer trocar ideias e compartilhar experiências! 📧
