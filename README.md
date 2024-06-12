@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62509668/139310543-657db66d-86ab-4e93-a470-4a96c5813e75.gif" width="400" align="right" alt="Dev Lucas">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="400" align="right" alt="Dev Lucas">
 
 <h2>Olá, sou Pedro Tatibano</h2>
 
