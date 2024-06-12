@@ -19,6 +19,7 @@
 </p>
 <br>
 <p align="left">
-  Conecte-se comigo no <a href="https://www.linkedin.com/in/pedro-tatibano/" alt="Linkedin" target="_blank">LinkedIn</a>
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-tatibano/" />
+  Conecte-se comigo no <a href="https://www.linkedin.com/in/pedro-tatibano/" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-tatibano/" />
+  </a>
 </p>
